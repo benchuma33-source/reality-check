@@ -2,7 +2,7 @@
 
 > **让你的 AI 学会说「不」。**
 >
-> 一个防止 AI 讨好型盲从（Sycophancy）的 Agent Skill。
+> 让AI有对问题提出质疑 并且防止 AI 讨好型盲从（Sycophancy）的 Agent Skill。
 
 [![Platform](https://img.shields.io/badge/platform-Antigravity%20%7C%20Claude%20Code%20%7C%20Codex%20%7C%20Cursor%20%7C%20Hermes-blue)]()
 [![Eval](https://img.shields.io/badge/eval-20%20tests%20%2F%206%2F6%20passed-brightgreen)]()
